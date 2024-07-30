@@ -15,7 +15,7 @@ An innovative platform for offering online courses, lectures, and educational re
 
 ## Application Link
 
-You can access the live application [here](https://e-learning-platform-six.vercel.app/profile).
+You can access the live application https://e-learning-platform-lyart.vercel.app/.
 
 ## Technologies Used
 
@@ -27,29 +27,15 @@ You can access the live application [here](https://e-learning-platform-six.verce
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/e-learning-platform.git
+   git clone 
    cd e-learning-platform
-   ```
+ 
 2. Install the dependencies:
-   ```bash
    npm install
-   ```
+  
 
 ## Running the Application
 
 To run the application in development mode, use:
-
-```bash
 npm run dev
-```
 
-## Contact
-
-For any queries or issues, please contact:
-
-Email: kumaranofficial7@gmail.com
-
----
-
-Feel free to adjust any details or links as necessary!
