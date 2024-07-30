@@ -1,7 +1,7 @@
-Description
+##Description
 An innovative platform for offering online courses, lectures, and educational resources. This system allows any user to explore available courses and access detailed course content. The platform provides features such as user profiles, course enrollment, progress tracking, and interactive content delivery to enhance the learning experience. Please note, this site does not include login authentication and has been temporarily built for an intern task.
 
-Features
+##Features
 User profiles.
 Course enrollment.
 Progress tracking.
@@ -11,7 +11,7 @@ Real-time updates (MongoDB Atlas).
 Application Link
 You can access the live application here.
 
-Technologies Used
+##Technologies Used
 Next.js
 CSS
 JavaScript
