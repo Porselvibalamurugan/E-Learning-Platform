@@ -48,7 +48,7 @@ npm run dev
 
 For any queries or issues, please contact:
 
-Email: kumaranofficial7@gmail.com
+Email: porselvibalamurugan123@gmail.com
 
 ---
 
