@@ -29,4 +29,8 @@ npm run dev
 Contact
 For any queries or issues, please contact:
 
+<<<<<<< HEAD
 Email: kumaranofficial7@gmail.com
+=======
+Email: porselvibalamurugn123@gmail.com
+>>>>>>> 5ef2683695270491c95932e6fc174661b4b01306
