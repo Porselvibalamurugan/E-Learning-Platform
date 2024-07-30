@@ -28,3 +28,4 @@ To run the application in development mode, use:
 npm run dev
 Contact
 For any queries or issues, please contact:
+porselvibalamurugan123@gmail.com
