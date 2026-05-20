@@ -44,12 +44,4 @@ To run the application in development mode, use:
 npm run dev
 ```
 
-## Contact
 
-For any queries or issues, please contact:
-
-Email: porselvibalamurugan123@gmail.com
-
----
-
-Feel free to adjust any details or links as necessary!
