@@ -13,10 +13,6 @@ An innovative platform for offering online courses, lectures, and educational re
 - Responsive design using Tailwind CSS.
 - Real-time updates (MongoDB Atlas).
 
-## Application Link
-
-You can access the live application https://e-learning-platform-lyart.vercel.app/
-
 ## Technologies Used
 
 - Next.js
